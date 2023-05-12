@@ -4,9 +4,14 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node api/server.js",
+    "prettier-all": "prettier --write .",
+    "prettier": "prettier --write \"src/**/*.+(ts|tsx|js|jsx|json|css|md)\""
   },
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
   }
 }
