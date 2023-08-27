@@ -577,6 +577,177 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1c73f334-0359-4f89-8af4-f247121a5228",
+      "name": "Alfajores de Leite",
+      "category": "sobremesas",
+      "total_ingredients": "9",
+      "time": 130,
+      "cover": "https://raw.githubusercontent.com/heldinho/assets/main/receitas/images/alfajares-de-leite.png",
+      "video": "20t5Q-nokyw",
+      "ingredients": [
+        {
+          "title": "Massa",
+          "list": [
+            {
+              "id": "1",
+              "text": "1 xícara (chá) bem cheia de açúcar UNIÃO"
+            },
+            {
+              "id": "2",
+              "text": "600g de amido de milho"
+            },
+            {
+              "id": "3",
+              "text": "1 colher (chá) de fermento em pó"
+            },
+            {
+              "id": "4",
+              "text": "200g de manteiga ou margarina sem sal"
+            },
+            {
+              "id": "5",
+              "text": "2 ovos"
+            },
+            {
+              "id": "6",
+              "text": "2 gemas"
+            },
+            {
+              "id": "7",
+              "text": "1 lata de leite condensado cozido em panela de pressão, por 45 minutos"
+            }
+          ]
+        },
+        {
+          "title": "Glacê",
+          "list": [
+            {
+              "id": "1",
+              "text": "2 xícaras (chá) bem cheias de açúcar de confeiteiro GLAÇÚCAR"
+            },
+            {
+              "id": "2",
+              "text": "5 colheres (sopa) de leite"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "name": "Para a Massa",
+          "instruction": [
+            {
+              "id": "1",
+              "text": "Faça uma farofa, misturando o açúcar com a amido de milho, o fermento e a manteiga."
+            },
+            {
+              "id": "2",
+              "text": "Adicione os ovos e as gemas e amasse delicadamente até formar uma massa homogênea."
+            },
+            {
+              "id": "3",
+              "text": "Abra com a auxílio de um rolo, até ficar com 0,5 cm de espessura."
+            },
+            {
+              "id": "4",
+              "text": "Corte rodelas pequenas."
+            },
+            {
+              "id": "5",
+              "text": "Coloque em tabuleiro untado e polvilhado com farinha."
+            },
+            {
+              "id": "6",
+              "text": "Leve para assar."
+            },
+            {
+              "id": "7",
+              "text": "Após esfriar, una as rodelas, duas a duas, com o doce de leite."
+            },
+            {
+              "id": "8",
+              "text": "Cubra com o glacê."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Dica",
+          "instruction": [
+            {
+              "id": "1",
+              "text": "Para cortar os biscoitos, use um cortador próprio ou a borda de um copo."
+            },
+            {
+              "id": "2",
+              "text": "Temperatura: moderada (180º C)"
+            },
+            {
+              "id": "3",
+              "text": "Tempo de forno: cerca de 30 minutos"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "name": "Para o Glacê",
+          "instruction": [
+            {
+              "id": "1",
+              "text": "Misture o GLAÇÚCAR com o leite e leve ao banho-maria até esquentar bem."
+            },
+            {
+              "id": "2",
+              "text": "Passe nos alfajores com a ajuda de um pincel."
+            },
+            {
+              "id": "3",
+              "text": "Deixe secar."
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Modo de Congelamento",
+          "instruction": [
+            {
+              "id": "1",
+              "text": "Congele em aberto."
+            },
+            {
+              "id": "2",
+              "text": "Embale, extraia o ar, etiquete e mantenha no freezer."
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Modo de Descongelamento",
+          "instruction": [
+            {
+              "id": "1",
+              "text": "Descongele na embalagem."
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "name": "INDICADO",
+          "instruction": [
+            {
+              "id": "1",
+              "text": "Não aconselhamos usar o Microondas."
+            },
+            {
+              "id": "2",
+              "text": "Prazo de congelamento: 1 Mês"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
