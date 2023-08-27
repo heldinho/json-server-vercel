@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node api/server.js",
     "prettier-all": "prettier --write .",
-    "prettier": "prettier --write \"src/**/*.+(ts|tsx|js|jsx|json|css|md)\""
+    "prettier": "prettier --write \"src/**/*.+(ts|tsx|js|jsx|json|css|md)\"",
+    "prod": "vercel --prod"
   },
   "dependencies": {
     "json-server": "^0.17.0"
